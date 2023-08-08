@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandojbf123&" alt="fernandojbf123" /></p>
 
-<a href="https://github.com/fernandojbf123"><img src="https://avatars.githubusercontent.com/u/fernandojbf123" width="60px" /></a>
+<a href="https://github.com/fernandojbf123"><img src="https://avatars.githubusercontent.com/u/111673577?v=4" width="60px" /></a>
