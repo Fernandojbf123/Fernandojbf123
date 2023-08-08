@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandojbf123&show_icons=true&locale=en" alt="fernandojbf123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandojbf123&" alt="fernandojbf123" /></p>
+
+<a href="https://github.com/fernandojbf123"><img src="https://avatars.githubusercontent.com/u/fernandojbf123" width="60px" /></a>
