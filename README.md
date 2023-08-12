@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm a frontend developer @BelloDev</h1>
-<h3 align="center">An engineer with great experience in REACT, HTML, CSS and JAVASCRIPT.</h3>
+<h3 align="center">📈Engineer since 2009 and Frontend developer 💻 with great experience in:</h3>
+
+✔HTML5           ✔CSS3        ✔JavaScript       
+✔React           ✔NextJS      ✔Remix Run
+✔TailwindCSS     ✔Astro       ✔Context API
+✔Json Server     ✔Jest        ✔Strapi
+✔Git             ✔Asana       ✔Jira
+
+I'm looking to build up a career in Front end Development. 
+Ready to start ASAP ⏱. Anual range 💲30,000 - 💲35,000 USD / year
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandojbf123&label=Profile%20views&color=0e75b6&style=flat" alt="fernandojbf123" /> </p>
 
