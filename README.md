@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm a frontend developer @BelloDev</h1>
 <h3 align="center">📈Engineer since 2009 and Frontend developer 💻 with great experience in:</h3>
 
-✔HTML5           ✔CSS3        ✔JavaScript                                                                                                                                                                           
-✔React           ✔NextJS      ✔Remix Run                                                                                                                                                                            
-✔TailwindCSS     ✔Astro       ✔Context API                                                                                                                                                                          
+✔HTML5  ✔CSS3  ✔JavaScript                                                                                                                                                                                          
+✔React  ✔NextJS  ✔Remix Run                                                                                                                                                                                          
+✔TailwindCSS     ✔Astro       ✔Context API                                                                                                                                                                                
 ✔Json Server     ✔Jest        ✔Strapi                                                                                                                                                                               
 ✔Git             ✔Asana       ✔Jira 
 
