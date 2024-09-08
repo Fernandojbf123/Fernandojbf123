@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a frontend developer @BelloDev</h1>
-<h3 align="center">📈Developer 💻 Engineer since 2009. MsC 2015. PHD in Sciences 2021.</h3>
+<h1 align="center">Hi 👋, Developer @BelloDev</h1>
+<h3 align="center">📈Engineer since 2009. MsC 2015. PHD in Sciences 2021.</h3>
 <h3 align="left">Languages and Tools:</h3>
  
 ✔HTML5  ✔CSS3  ✔JavaScript                                                                                                                                                                                          
