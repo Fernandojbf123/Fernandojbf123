@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Welcome to👋 @BelloDev's Git</h1>
+<h1 align="center">Hello! Welcome to👋 my & your Git</h1>
 <h3 align="center">📈Engineer since 2009. MsC 2015. PHD in Sciences 2021.</h3>
 <h3 align="left">Languages and Tools:</h3>
 
