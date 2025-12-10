@@ -45,7 +45,7 @@
 
 - 🔭 I’m currently working on a consultant agency as Specialist building apps to get Satellite and Buoys data and making specialiced reports about the data.
 
-- 💬 Top coding languages: **Javascript, Matlab, Pyhton** Frameworks: **React, NextJs**
+- 💬 Top coding languages: **Pyhton, Matlab, Javascript**
 
 - 🤝 I’m looking forward to be the best Sr you could ever work with
 
