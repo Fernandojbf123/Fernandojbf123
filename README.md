@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Welcome to👋 my & your Git</h1>
-<h2 align="center">Sr. Data Analyst | Machine Learning & BI | Python, SQL, Power BI | Líder Estratégico</h2>
+<h2 align="center">Sr. Data Scientist | Machine Learning & BI | Python, SQL, Power BI | Líder Estratégico</h2>
 <h3 align="center">📈Engineer since 2009. MsC 2015. PHD in Sciences 2021.</h3>
 <h3 align="left">Languages and Tools:</h3>
 
