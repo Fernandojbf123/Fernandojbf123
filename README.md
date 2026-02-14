@@ -18,7 +18,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <tr><td>✔Seaborn</td><td>✔Plotly</td><td>✔Matplotlib</td></tr>
 <tr><td>✔Selenium</td><td>✔BeautifulSoup</td><td>✔Request</td></tr>
 <tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
-</td>
+</table>
 <td valign="top">
 <table>
 <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
@@ -29,7 +29,6 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </td>
 </tr>
 </table>
-
 
 
 <h2 align="left">Data Science:</h2>
