@@ -1,6 +1,5 @@
 <h1 align="center">Sr. Data Scientist & Strategic Leader</h1>
-<h2 align="center">Machine Learning & BI | Python, SQL, Power BI</h2>
-
+## Machine Learning & BI | Python, SQL, Power BI
 <h3 align="left">Data Science:</h3>
 <table>
 <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
