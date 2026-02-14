@@ -59,18 +59,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaleidoscopic-monstera-51a0ca.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bellodev web page link" height="30" width="40" /></a>
+<a href="https://wonderful-cucurucho-b17668.netlify.app/index" target="blank"><img align="center" src="https://st2.depositphotos.com/1032577/6582/i/950/depositphotos_65828845-stock-photo-portfolio-written-on-notebook.jpg" alt="bellodev web page link" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fernando-bello-6b5160250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-bello-6b5160250" height="30" width="40" /></a>
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fernandojbf123&label=Profile%20views&color=0e75b6&style=flat" alt="fernandojbf123" /></p>
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandojbf123" alt="fernandojbf123" /></a></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandojbf123&show_icons=true&locale=en&layout=compact" alt="fernandojbf123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandojbf123&show_icons=true&locale=en" alt="fernandojbf123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandojbf123&" alt="fernandojbf123" /></p>
 
-<a href="https://github.com/fernandojbf123"><img src="https://avatars.githubusercontent.com/u/111673577?v=4" width="60px" /></a>
