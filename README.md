@@ -3,11 +3,11 @@
 
 <h3 align="left">Data Science:</h3>
 <table>
-<tr><td>✔Python</td>✔Pandas<td></td><td>✔NumPy</td></tr>
-<tr><td>✔Sci-kit Learn</td>✔Tensorflow<td></td><td>✔Keras</td></tr>
-<tr><td>✔Seaborn</td>✔Plotly<td></td><td>✔Matplotlib</td></tr>
-<tr><td>✔Selenium</td>✔BeautifulSoup<td></td><td>✔Request</td></tr>
-<tr><td>✔SQL</td>✔Matlab<td></td><td>✔Jupyter</td></tr>
+<tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
+<tr><td>✔Sci-kit Learn</td><td>✔Tensorflow</td><td>✔Keras</td></tr>
+<tr><td>✔Seaborn</td><td>✔Plotly</td><td>✔Matplotlib</td></tr>
+<tr><td>✔Selenium</td><td>✔BeautifulSoup</td><td>✔Request</td></tr>
+<tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
 </table>
 
 <h3 align="left">Frontend dev</h3>
