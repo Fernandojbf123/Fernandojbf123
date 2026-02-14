@@ -10,7 +10,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </p>
 
 <table>
-<tr>
+<tr align="center">
 <td valign="top">
 <table>
 <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
