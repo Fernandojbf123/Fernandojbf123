@@ -1,6 +1,6 @@
 <h1 align="center">Sr. Data Scientist & Strategic Leader</h1>
 <p align="center">
-  <span style="font-size:14px;"><b>Machine Learning & BI | Python, SQL, Power BI</b></span>
+  <span style="font-size:18px;"><b>Machine Learning & BI | Python, SQL, Power BI</b></span>
 </p>
 <p>
 Profesional con +15 años en ciencia de datos y gestión empresarial con fuertes habilidades de liderazgo y automatización de procesos para el análisis de datos.
