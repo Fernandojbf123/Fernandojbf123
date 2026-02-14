@@ -33,8 +33,8 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </td>
 </tr>
 
-<tr>
-<td valign="top">
+<tr align="center">
+<td valign="top" align="center">
 <h2 align="center">Backend dev:</h2>
 <table>
 <tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
@@ -43,7 +43,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 <td valign="top" align="center"></td>
-<td valign="top">
+<td valign="top" align="center">
 <h2 align="center">QA / Test:</h2>
 <table>
 <tr><td>✔Pytest</td><td>✔Automation</td><td>✔Jest</td></tr>
@@ -52,8 +52,8 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </td>
 </tr>
 
-<tr>
-<td valign="top">
+<tr align="center">
+<td valign="top" align="center">
 <h2 align="center">Interaction and Version control :</h2>
 <table>
 <tr><td>✔Git</td><td>✔Asana</td><td>✔Jira</td></tr>
@@ -61,7 +61,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 <td valign="top" align="center"></td>
-<td valign="top">
+<td valign="top" align="center">
 <h2 align="center">Others:</h2>
 <table>
 <tr><td>✔Windows</td><td>✔Venv</td><td>✔Linux (Ubuntu)</td></tr>
@@ -70,8 +70,8 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </td>
 </tr>
 
-<tr>
-<td valign="top">
+<tr align="center">
+<td valign="top" align="center">
 <h2 align="left">Soft skills:</h2>
 <table>
 <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
