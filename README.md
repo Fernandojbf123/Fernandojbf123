@@ -1,5 +1,10 @@
 <h1 align="center">Sr. Data Scientist & Strategic Leader</h1>
-## Machine Learning & BI | Python, SQL, Power BI
+<h2 align="center">Machine Learning & BI | Python, SQL, Power BI</h2>
+<p>
+Profesional con +15 años en ciencia de datos y gestión empresarial con fuertes habilidades de liderazgo y automatización de procesos para el análisis de datos.
+Con capacidad para el **data story telling**, **desarrollo de proyectos de automatización** para generación de reportes y presentaciones, investigación y web scrapping.
+Enfocado al cumplimiento de metas y la obtención de resultados tomando decisiones fundamentadas principalmente análisis de indicadores (KPIs).
+</p>
 <h3 align="left">Data Science:</h3>
 <table>
 <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
@@ -10,49 +15,46 @@
 </table>
 
 <h3 align="left">Frontend dev</h3>
-✔HTML5           ✔CSS3        ✔JavaScript          
-                              
-✔React           ✔NextJS      ✔Remix Run          
-                              
-✔TailwindCSS     ✔Astro       ✔Context API          
-                              
-✔Json Server
+<table>
+  <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
+  <tr><td>✔React</td><td>✔NextJS</td><td>✔Remix Run</td></tr>
+  <tr><td>✔TailwindCSS</td><td>✔Astro</td><td>✔Context API</td></tr>
+  <tr><td>✔Json Server</td><td></td><td></td></tr>
+</table>
 
 <h3 align="left">Backend dev:</h3>
-✔Node            ✔Strapi      ✔Python          
-                              
-✔Django          ✔Docker      ✔mySQL          
-                              
-✔PostgreSQL      ✔Selenium
+<table>
+  <tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
+  <tr><td>✔Django</td><td>✔Docker</td><td>✔mySQL</td></tr>
+  <tr><td>✔PostgreSQL</td><td>✔Selenium</td><td></td></tr>
+</table>
                               
 <h3 align="left">QA / Test:</h3>
-✔Pytest          ✔Automation ✔Jest
-                    
-✔Selenium
+<table>
+  <tr><td>✔Pytest</td><td>✔Automation</td><td>✔Jest</td></tr>
+  <tr><td>✔Selenium</td><td></td><td></td></tr>
+</table>
                     
 <h3 align="left">Interaction and Version control :</h3>
-
-✔Git             ✔Asana       ✔Jira
-                    
-✔Monday
+<table>
+  <tr><td>✔Git</td><td>✔Asana</td><td>✔Jira</td></tr>
+  <tr><td>✔Monday</td><td></td><td></td></tr>
+</table>
           
 <h3 align="left">Others:</h3>
-
-✔Windows        ✔Venv         ✔Linux (Ubuntu)
-
-✔BASH           ✔CMD          ✔Powershell
+<table>
+  <tr><td>✔Windows</td><td>✔Venv</td><td>✔Linux (Ubuntu)</td></tr>
+  <tr><td>✔BASH</td><td>✔CMD</td><td>✔Powershell</td></tr>
+</table>
 
 <h3 align="left">Soft skills:</h3>
-
-✔Researcher     ✔Helper      ✔Selfdriven
-
-✔Ability to explain dificult issues
-
-✔Team leader    ✔Planner     ✔Forecaster
-
-✔Fast learner   ✔Resilient   ✔Thinker and hardworker
-
-✔Goal oriented  ✔Pareto's approach
+<table>
+  <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
+  <tr><td>✔Ability to explain dificult issues</td><td></td><td></td></tr>
+  <tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
+  <tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Thinker and hardworker</td></tr>
+  <tr><td>✔Goal oriented</td><td>✔Pareto's approach</td><td></td></tr>
+</table>
 
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></a><a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="html5" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></p>
