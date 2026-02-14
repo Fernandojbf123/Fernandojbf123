@@ -1,6 +1,8 @@
 <h1 align="center">Sr. Data Scientist & Strategic Leader</h1>
 <h2 align="center">Machine Learning & BI | Python, SQL, Power BI</h2>
+
 <h3 align="left">Data Science:</h3>
+
 ✔Matlab          ✔Pandas      ✔NumPy
 
 ✔Matplotlib      ✔Seaborn     ✔Sci-kit Learn
@@ -8,35 +10,48 @@
 ✔Tensorflow      ✔Scikit      ✔Web scrapping
 
 <h3 align="left">Frontend dev</h3>
+
 ✔HTML5           ✔CSS3        ✔JavaScript                                                                                                                                                                                          
 ✔React           ✔NextJS      ✔Remix Run                                                                                                                                                                                             
 ✔TailwindCSS     ✔Astro       ✔Context API                                                                                                                                                                                   
 ✔Json Server        
 
 <h3 align="left">Backend dev:</h3>
+
 ✔Node            ✔Strapi      ✔Python
+
 ✔Django          ✔Docker      ✔mySQL
+
 ✔PostgreSQL      ✔Selenium  
 
 <h3 align="left">QA / Test:</h3>
+
 ✔Pytest          ✔Automation ✔Jest
+
 ✔Selenium
 
 <h3 align="left">Interaction and Version control :</h3>
+
 ✔Git             ✔Asana       ✔Jira
 
 ✔Monday
           
 <h3 align="left">Others:</h3>
+
 ✔Windows        ✔Venv         ✔Linux (Ubuntu)
 
 ✔BASH           ✔CMD          ✔Powershell
 
 <h3 align="left">Soft skills:</h3>
+
 ✔Researcher     ✔Helper      ✔Selfdriven
+
 ✔Ability to explain dificult issues
+
 ✔Team leader    ✔Planner     ✔Forecaster
+
 ✔Fast learner   ✔Resilient   ✔Thinker and hardworker
+
 ✔Goal oriented  ✔Pareto's approach
 
 <p align="left"> 
