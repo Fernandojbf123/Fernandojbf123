@@ -20,6 +20,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <tr><td>✔Selenium</td><td>✔BeautifulSoup</td><td>✔Request</td></tr>
 <tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
 </table>
+</td>
 <td valign="top" align="center"></td>
 <td valign="top" align="center">
 <h2 align="center">Frontend development:</h2>
@@ -31,6 +32,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 </tr>
+
 <tr>
 <td valign="top">
 <h2 align="center">Backend dev:</h2>
@@ -49,6 +51,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 </tr>
+
 <tr>
 <td valign="top">
 <h2 align="center">Interaction and Version control :</h2>
@@ -66,6 +69,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 </tr>
+
 <tr>
 <td>
 <h2 align="left">Soft skills:</h2>
