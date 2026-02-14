@@ -3,36 +3,36 @@
 
 <h3 align="left">Data Science:</h3>
 ✔Matlab          ✔Pandas      ✔NumPy          
-
+                              
 ✔Matplotlib      ✔Seaborn     ✔Sci-kit Learn          
-
+                              
 ✔Tensorflow      ✔Scikit      ✔Web scrapping          
-
+                              
 <h3 align="left">Frontend dev</h3>
 ✔HTML5           ✔CSS3        ✔JavaScript          
-
+                              
 ✔React           ✔NextJS      ✔Remix Run          
-
+                              
 ✔TailwindCSS     ✔Astro       ✔Context API          
-
+                              
 ✔Json Server
 
 <h3 align="left">Backend dev:</h3>
 ✔Node            ✔Strapi      ✔Python          
-
+                              
 ✔Django          ✔Docker      ✔mySQL          
-
+                              
 ✔PostgreSQL      ✔Selenium
-
+                              
 <h3 align="left">QA / Test:</h3>
 ✔Pytest          ✔Automation ✔Jest
-
+                    
 ✔Selenium
-
+                    
 <h3 align="left">Interaction and Version control :</h3>
 
 ✔Git             ✔Asana       ✔Jira
-
+                    
 ✔Monday
           
 <h3 align="left">Others:</h3>
