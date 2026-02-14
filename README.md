@@ -22,12 +22,11 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 <td valign="top" align="center">
-<p><a href="_blank" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></a></p>
-<p><a href="_blank" target="_blank" rel="noreferrer"><img src="https://deepakrip007.wordpress.com/wp-content/uploads/2022/06/pandas-python.png" alt="Pandas" width="40" height="40"/></a></p>
-<p><a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit" width="40" height="40"/></a></p>
-<p></p>
-<p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></p>
-<p><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></p>
+<p><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></p>
+<p><img src="https://deepakrip007.wordpress.com/wp-content/uploads/2022/06/pandas-python.png" alt="Pandas" width="40" height="40"/></p>
+<p><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit" width="40" height="40"/></a></p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
 </td>
 
 <td valign="top" align="center">
