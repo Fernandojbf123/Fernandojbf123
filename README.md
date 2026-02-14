@@ -22,7 +22,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 <td valign="top" align="center">
-<p><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></a></p>
+<p><a href="" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></a></p>
 <p><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://deepakrip007.wordpress.com/wp-content/uploads/2022/06/pandas-python.png" alt="Pandas" width="40" height="40"/></a></p>
 <p><a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit" width="40" height="40"/></a></p>
 <p></p>
