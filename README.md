@@ -2,12 +2,14 @@
 <h2 align="center">Machine Learning & BI | Python, SQL, Power BI</h2>
 
 <h3 align="left">Data Science:</h3>
-✔Matlab          ✔Pandas      ✔NumPy          
-                              
-✔Matplotlib      ✔Seaborn     ✔Sci-kit Learn          
-                              
-✔Tensorflow      ✔Scikit      ✔Web scrapping          
-                              
+<table>
+<tr><td>✔Python</td>✔Pandas<td></td><td>✔NumPy</td></tr>
+<tr><td>✔Sci-kit Learn</td>✔Tensorflow<td></td><td>✔Keras</td></tr>
+<tr><td>✔Seaborn</td>✔Plotly<td></td><td>✔Matplotlib</td></tr>
+<tr><td>✔Selenium</td>✔BeautifulSoup<td></td><td>✔Request</td></tr>
+<tr><td>✔SQL</td>✔Matlab<td></td><td>✔Jupyter</td></tr>
+</table>
+
 <h3 align="left">Frontend dev</h3>
 ✔HTML5           ✔CSS3        ✔JavaScript          
                               
