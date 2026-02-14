@@ -23,8 +23,8 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </td>
 <td valign="top" align="center">
 <table>
-<tr><td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></a></td></tr>
-<tr><td><a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="html5" width="40" height="40"/></a></td></tr> 
+<tr><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></a></tr>
+<tr><a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="html5" width="40" height="40"/></a></tr> 
 </td>
 </table>
 <td valign="top" align="center">
