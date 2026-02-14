@@ -75,10 +75,11 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <h2 align="left">Soft skills:</h2>
 <table>
 <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
-<tr><td>✔Ability to explain dificult issues</td><td></td><td></td></tr>
 <tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
-<tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Thinker and hardworker</td></tr>
-<tr><td>✔Goal oriented</td><td>✔Pareto's approach</td><td></td></tr>
+<tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Goal oriented</td></tr>
+<tr><td>✔Pareto's approach</td></tr>
+<tr><td>✔Ability to explain dificult issues</td></tr>
+<tr><td>✔Thinker and hardworker</td></tr>
 </table>
 </td>
 <td valign="top" align="center"></td>
