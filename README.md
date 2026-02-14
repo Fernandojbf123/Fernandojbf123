@@ -31,10 +31,6 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 </tr>
-</table>
-
-
-<table>
 <tr>
 <td valign="top">
 <h2 align="center">Backend dev:</h2>
@@ -53,9 +49,6 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td valign="top">
 <h2 align="center">Interaction and Version control :</h2>
@@ -73,8 +66,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </table>
 </td>
 </tr>
-</table>
-
+<tr>
 <h2 align="left">Soft skills:</h2>
 <table>
   <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
@@ -82,6 +74,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
   <tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
   <tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Thinker and hardworker</td></tr>
   <tr><td>✔Goal oriented</td><td>✔Pareto's approach</td><td></td></tr>
+</tr>
 </table>
 
 <p align="left"> 
