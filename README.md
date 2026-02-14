@@ -1,5 +1,5 @@
 <h1 align="center">
-Sr. Data Scientist & Strategic Leader
+Sr. Data Scientist & Strategic Leader /n
 Machine Learning & BI | Python, SQL, Power BI
 </h1>
 <p>
