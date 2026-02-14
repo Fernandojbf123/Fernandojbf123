@@ -9,7 +9,7 @@ Con capacidad para el **data story telling**, **desarrollo de proyectos de autom
 Enfocado al cumplimiento de metas y la obtención de resultados tomando decisiones fundamentadas principalmente análisis de indicadores (KPIs).
 </p>
 
-<table>
+<table align="center">
 <tr align="center">
 <td valign="top" align="center">
 <h2 align="center">Data Science:</h2>
