@@ -2,25 +2,25 @@
 <h2 align="center">Machine Learning & BI | Python, SQL, Power BI</h2>
 
 <h3 align="left">Data Science:</h3>
-✔Matlab          ✔Pandas      ✔NumPy
+✔Matlab          ✔Pandas      ✔NumPy          
 
-✔Matplotlib      ✔Seaborn     ✔Sci-kit Learn
+✔Matplotlib      ✔Seaborn     ✔Sci-kit Learn          
 
-✔Tensorflow      ✔Scikit      ✔Web scrapping
+✔Tensorflow      ✔Scikit      ✔Web scrapping          
 
 <h3 align="left">Frontend dev</h3>
-✔HTML5           ✔CSS3        ✔JavaScript
+✔HTML5           ✔CSS3        ✔JavaScript          
 
-✔React           ✔NextJS      ✔Remix Run
+✔React           ✔NextJS      ✔Remix Run          
 
-✔TailwindCSS     ✔Astro       ✔Context API
+✔TailwindCSS     ✔Astro       ✔Context API          
 
 ✔Json Server
 
 <h3 align="left">Backend dev:</h3>
-✔Node            ✔Strapi      ✔Python
+✔Node            ✔Strapi      ✔Python          
 
-✔Django          ✔Docker      ✔mySQL
+✔Django          ✔Docker      ✔mySQL          
 
 ✔PostgreSQL      ✔Selenium
 
