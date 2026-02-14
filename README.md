@@ -3,22 +3,28 @@
 
 <h3 align="left">Data Science:</h3>
 ✔Matlab          ✔Pandas      ✔NumPy
+
 ✔Matplotlib      ✔Seaborn     ✔Sci-kit Learn
+
 ✔Tensorflow      ✔Scikit      ✔Web scrapping
 
 <h3 align="left">Frontend dev</h3>
-✔HTML5           ✔CSS3        ✔JavaScript                                                                                                                                                                           
-✔React           ✔NextJS      ✔Remix Run                                                                                                                                                                            
-✔TailwindCSS     ✔Astro       ✔Context API                                                                                                                                                                          
-✔Json Server        
+✔HTML5           ✔CSS3        ✔JavaScript
+
+✔React           ✔NextJS      ✔Remix Run
+
+✔TailwindCSS     ✔Astro       ✔Context API
+
+✔Json Server
 
 <h3 align="left">Backend dev:</h3>
 ✔Node            ✔Strapi      ✔Python
+
 ✔Django          ✔Docker      ✔mySQL
-✔PostgreSQL      ✔Selenium  
+
+✔PostgreSQL      ✔Selenium
 
 <h3 align="left">QA / Test:</h3>
-
 ✔Pytest          ✔Automation ✔Jest
 
 ✔Selenium
