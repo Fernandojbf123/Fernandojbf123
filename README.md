@@ -78,8 +78,8 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
 <tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Goal oriented</td></tr>
 <tr><td>✔Pareto's approach</td></tr>
-<tr><td>✔Ability to explain dificult issues</td></tr>
-<tr><td>✔Thinker and hardworker</td></tr>
+<tr><td>✔Solver</td><td>✔Thinker</td><td>Analytic</td></tr>
+<tr><td>Planner</td><td>Hardworker</td><td>Pragmatic</td></tr>
 </table>
 </td>
 <td valign="top" align="center"></td>
