@@ -12,7 +12,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <table>
 <tr align="center">
 <td valign="top" align="center">
-<h2 align="left">Data Science:</h2>
+<h2 align="center">Data Science:</h2>
 <table>
 <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
 <tr><td>✔Sci-kit Learn</td><td>✔Tensorflow</td><td>✔Keras</td></tr>
@@ -20,10 +20,9 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <tr><td>✔Selenium</td><td>✔BeautifulSoup</td><td>✔Request</td></tr>
 <tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
 </table>
+<td valign="top" align="center"></td>
 <td valign="top" align="center">
-</td>
-<td valign="top" align="center">
-<h2 align="left">Frontend development:</h2>
+<h2 align="center">Frontend development:</h2>
 <table>
 <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
 <tr><td>✔React</td><td>✔NextJS</td><td>✔Remix Run</td></tr>
@@ -38,15 +37,16 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <table>
 <tr>
 <td valign="top">
-<h2 align="left">Backend dev:</h2>
+<h2 align="center">Backend dev:</h2>
 <table>
 <tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
 <tr><td>✔Django</td><td>✔Docker</td><td>✔mySQL</td></tr>
 <tr><td>✔PostgreSQL</td><td>✔Selenium</td><td></td></tr>
 </table>
 </td>
+<td valign="top" align="center"></td>
 <td valign="top">
-<h2 align="left">QA / Test:</h2>
+<h2 align="center">QA / Test:</h2>
 <table>
 <tr><td>✔Pytest</td><td>✔Automation</td><td>✔Jest</td></tr>
 <tr><td>✔Selenium</td><td></td><td></td></tr>
@@ -58,14 +58,15 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <table>
 <tr>
 <td valign="top">
-<h2 align="left">Interaction and Version control :</h2>
+<h2 align="center">Interaction and Version control :</h2>
 <table>
 <tr><td>✔Git</td><td>✔Asana</td><td>✔Jira</td></tr>
 <tr><td>✔Monday</td><td></td><td></td></tr>
 </table>
 </td>
+<td valign="top" align="center"></td>
 <td valign="top">
-<h2 align="left">Others:</h2>
+<h2 align="center">Others:</h2>
 <table>
 <tr><td>✔Windows</td><td>✔Venv</td><td>✔Linux (Ubuntu)</td></tr>
 <tr><td>✔BASH</td><td>✔CMD</td><td>✔Powershell</td></tr>
