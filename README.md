@@ -12,8 +12,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <table>
   <tr>
     <td>
-    <h2 align="left">Data Science:</h2>
-    <table>
+      <table>
       <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
       <tr><td>✔Sci-kit Learn</td><td>✔Tensorflow</td><td>✔Keras</td></tr>
       <tr><td>✔Seaborn</td><td>✔Plotly</td><td>✔Matplotlib</td></tr>
@@ -21,13 +20,12 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
       <tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
     </td>
     <td>
-    <h2 align="left">Frontend dev</h2>
-    <table>
+      <table>
       <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
       <tr><td>✔React</td><td>✔NextJS</td><td>✔Remix Run</td></tr>
       <tr><td>✔TailwindCSS</td><td>✔Astro</td><td>✔Context API</td></tr>
       <tr><td>✔Json Server</td><td></td><td></td></tr>
-    </table>
+      </table>
     </td>
   </tr>
 </table>
