@@ -21,6 +21,8 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
 </table>
 <td valign="top" align="center">
+</td>
+<td valign="top" align="center">
 <h2 align="left">Frontend development:</h2>
 <table>
 <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
