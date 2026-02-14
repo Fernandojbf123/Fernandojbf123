@@ -71,14 +71,13 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </tr>
 </table>
 
-<table>
-<h2 align="left">Soft skills:</h2>
+<table align="center">
+<h2 align="center">Soft skills:</h2>
 <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
 <tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
 <tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Goal oriented</td></tr>
 <tr><td>✔Solver</td><td>✔Thinker</td><td>Analytic</td></tr>
 <tr><td>Planner</td><td>Hardworker</td><td>Pragmatic</td></tr>
-</table>
 </table>
 
 <p align="left"> 
