@@ -42,17 +42,9 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </p>
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" width="40" height="40" alt="BeautifulSoup"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/requests/requests-original.svg" width="40" height="40" alt="Requests"/>
-</p>
-
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
 </p>
 </td>
 
