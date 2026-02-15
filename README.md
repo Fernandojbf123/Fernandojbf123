@@ -111,10 +111,10 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asana/asana-original.svg" width="40" height="40" alt="Asana"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/asana.svg" width="40" height="40" alt="Asana"/>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/monday/monday-original.svg" width="40" height="40" alt="Monday"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mondaydotcom.svg" width="40" height="40" alt="Monday"/>
 </p>
 </td>
 <!-- COLUMNA DERECHA -->
