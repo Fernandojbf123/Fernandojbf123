@@ -109,12 +109,12 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <!-- COLUMNA CENTRAL -->
 <td valign="top" align="center">
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-<img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" width="40" height="40" alt="Jira"/>
-<img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" width="40" height="40" alt="Asana"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asana/asana-original.svg" width="40" height="40" alt="Asana"/>
 </p>
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Monday_logo.svg" width="60" height="30" alt="Monday"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/monday/monday-original.svg" width="40" height="40" alt="Monday"/>
 </p>
 </td>
 <!-- COLUMNA DERECHA -->
