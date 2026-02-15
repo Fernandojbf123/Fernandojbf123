@@ -11,8 +11,9 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 
 <table align="center">
 <tr align="center">
+<!-- COLUMNA IZQUIERDA -->
 <td valign="top" align="center">
-<h2 align="center">Data Science:</h2>
+<h2>Data Science</h2>
 <table>
 <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
 <tr><td>✔Sci-kit Learn</td><td>✔Tensorflow</td><td>✔Keras</td></tr>
@@ -21,16 +22,43 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
 </table>
 </td>
+<!-- COLUMNA CENTRAL (LOGOS) -->
 <td valign="top" align="center">
-<p><img src="https://www.svgrepo.com/show/452091/python.svg" alt="html5" width="40" height="40"/></p>
-<p><img src="https://deepakrip007.wordpress.com/wp-content/uploads/2022/06/pandas-python.png" alt="Pandas" width="40" height="40"/></p>
-<p><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit" width="40" height="40"/></a></p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
+<h2>Tech Logos</h2>
+<p>
+<img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" alt="Python"/>
+<img src="https://deepakrip007.wordpress.com/wp-content/uploads/2022/06/pandas-python.png" width="40" height="40" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+</p>
+
+<p>
+<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40" alt="Scikit-Learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="Tensorflow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" width="40" height="40" alt="BeautifulSoup"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/requests/requests-original.svg" width="40" height="40" alt="Requests"/>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+</p>
 </td>
 
+<!-- COLUMNA DERECHA -->
 <td valign="top" align="center">
-<h2 align="center">Frontend development:</h2>
+<h2>Frontend Development</h2>
 <table>
 <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
 <tr><td>✔React</td><td>✔NextJS</td><td>✔Remix Run</td></tr>
@@ -41,19 +69,37 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </tr>
 
 <tr align="center">
+<!-- COLUMNA IZQUIERDA -->
 <td valign="top" align="center">
-<h2 align="center">Backend dev:</h2>
+<h2>Backend Development</h2>
 <table>
 <tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
-<tr><td>✔Django</td><td>✔Docker</td><td>✔mySQL</td></tr>
+<tr><td>✔Django</td><td>✔Docker</td><td>✔MySQL</td></tr>
 <tr><td>✔PostgreSQL</td><td>✔Selenium</td><td></td></tr>
 </table>
 </td>
+
+<!-- COLUMNA CENTRAL -->
 <td valign="top" align="center">
-<p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></p>
-<p><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/strapi/strapi-original.svg" width="40" height="40" alt="Strapi"/>
+</p>
+</td>
+
+<!-- COLUMNA DERECHA -->
 <td valign="top" align="center">
-<h2 align="center">QA / Test:</h2>
+<h2>QA / Testing</h2>
 <table>
 <tr><td>✔Pytest</td><td>✔Automation</td><td>✔Jest</td></tr>
 <tr><td>✔Selenium</td><td></td><td></td></tr>
@@ -62,31 +108,44 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 </tr>
 
 <tr align="center">
+<!-- COLUMNA IZQUIERDA -->
 <td valign="top" align="center">
-<h2 align="center">Interaction and Version control :</h2>
+<h2>Project Management</h2>
 <table>
 <tr><td>✔Git</td><td>✔Asana</td><td>✔Jira</td></tr>
 <tr><td>✔Monday</td><td></td><td></td></tr>
 </table>
 </td>
-<td valign="top" align="center"></td>
+
+<!-- COLUMNA CENTRAL -->
 <td valign="top" align="center">
-<h2 align="center">Others:</h2>
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+<img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" width="40" height="40" alt="Jira"/>
+<img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" width="40" height="40" alt="Asana"/>
+</p>
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Monday_logo.svg" width="60" height="30" alt="Monday"/>
+</p>
+</td>
+<!-- COLUMNA DERECHA -->
+<td valign="top" align="center">
+<h2>Others</h2>
 <table>
 <tr><td>✔Windows</td><td>✔Venv</td><td>✔Linux (Ubuntu)</td></tr>
-<tr><td>✔BASH</td><td>✔CMD</td><td>✔Powershell</td></tr>
+<tr><td>✔BASH</td><td>✔CMD</td><td>✔PowerShell</td></tr>
 </table>
 </td>
 </tr>
 </table>
 
+<h2 align="center">Soft Skills</h2>
 <table align="center">
-<h2 align="center">Soft skills:</h2>
-<tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
-<tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
-<tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Goal oriented</td></tr>
-<tr><td>✔Solver</td><td>✔Thinker</td><td>Analytic</td></tr>
-<tr><td>Planner</td><td>Hardworker</td><td>Pragmatic</td></tr>
+  <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
+  <tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
+  <tr><td>✔Fast learner</td><td>✔Resilient</td><td>✔Goal oriented</td></tr>
+  <tr><td>✔Solver</td><td>✔Thinker</td><td>✔Analytic</td></tr>
+  <tr><td>✔Planner</td><td>✔Hardworker</td><td>✔Pragmatic</td></tr>
 </table>
 
 <p align="left"> 
