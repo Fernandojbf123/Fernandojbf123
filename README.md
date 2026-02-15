@@ -142,31 +142,35 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <p align="left">
 <a href="https://wonderful-cucurucho-b17668.netlify.app/index" target="blank"><img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" alt="bellodev web page link" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fernando-bello-6b5160250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-bello-6b5160250" height="30" width="40" /></a>
-- 📫 **fernandojbf123@gmail.com**
 </p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandojbf123&show_icons=true&locale=en&layout=compact" alt="fernandojbf123" />
 </p>
+<p>
+- 📫 **fernandojbf123@gmail.com**
+</p>
 
 <h2 align="left">Projects</h2>
+<p>
 - Pending
+</p>
 
 <h2 align="left">Education</h2>
-- 2021: phD in sciences - Autonous University of Baja California, Mexico.
-- 2020: Master's in Business Administration (MBA) - European Postgrade Institute, Spain.
-- 2015: Master's in Science - CICESE, Mexico.
-- 2009: Engineering - Central University of Venezuela, Venezuela.
+<p>- 2021: phD in sciences - Autonous University of Baja California, Mexico.</p>
+<p>- 2020: Master's in Business Administration (MBA) - European Postgrade Institute, Spain.</p>
+<p>- 2015: Master's in Science - CICESE, Mexico.</p>
+<p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
 <h2 align="left">Courses and Awards</h2>
-- Pending
+<p>- Pending</p>
 
 <h2 align="left">Hobies</h2>
-- Piano
-- Guitar
-- Drum
-- Singing
-- Calisthenics
-- Lecturing
-- DJ
+<p>- Piano</p>
+<p>- Guitar</p>
+<p>- Drum</p>
+<p>- Singing</p>
+<p>- Calisthenics</p>
+<p>- Lecturing</p>
+<p>- DJ</p>
 
-<h4>🌱 It is amazing how you never stop learning new stuff about coding </h4>
+<h3>🌱 It is amazing how you never stop learning new stuff about coding </h3>
