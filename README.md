@@ -139,8 +139,10 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 
 <!-- connect -->
 <h2 align="left">Connect with me:</h2>
-<p><a href="https://wonderful-cucurucho-b17668.netlify.app/index" target="blank"><img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" alt="bellodev web page link" height="30" width="40"/></a></p>
-<p><a href="https://linkedin.com/in/fernando-bello-6b5160250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-bello-6b5160250" height="30" width="40" /></a></p>
+<p>
+<a href="https://wonderful-cucurucho-b17668.netlify.app/index" target="blank"><img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" alt="bellodev web page link" height="30" width="40"/></a></p>
+<a href="https://linkedin.com/in/fernando-bello-6b5160250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-bello-6b5160250" height="30" width="40" /></a>
+</p>
 <p>- 📫 **fernandojbf123@gmail.com**</p>
 
 <!-- Projects -->
@@ -159,12 +161,6 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <p>- Pending</p>
 
 <h2 align="left">Hobies</h2>
-<p>- Piano</p>
-<p>- Guitar</p>
-<p>- Drum</p>
-<p>- Singing</p>
-<p>- Calisthenics</p>
-<p>- Lecturing</p>
-<p>- DJ</p>
+<p>- Piano, Guitar, Drum, Singing, Calisthenics, Lecturing, DJ</p>
 
 <h3>🌱 It is amazing how you never stop learning new stuff about coding </h3>
