@@ -114,7 +114,7 @@ Enfocado al cumplimiento de metas y la obtención de resultados tomando decision
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/asana.svg" width="40" height="40" alt="Asana"/>
 </p>
 <p>
-<img src="https://cdn.simpleicons.org/mondaydotcom" width="40" height="40" alt="Monday.com"/>
+<img src="https://www.dopemarketing.com/hubfs/Monday.com%20CRM%20Logo-1.png" width="40" height="40" alt="Monday.com"/>
 </p>
 </td>
 <!-- COLUMNA DERECHA -->
