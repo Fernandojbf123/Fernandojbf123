@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
 Fernando Bello Fuentes
 </h1>
 <h2>Sr. Data Scientist & Strategic Leader  
