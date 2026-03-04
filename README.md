@@ -15,7 +15,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <!-- ======================= DATA SCIENCE ======================= -->
 
-<h2 align="center">Data Science</h2>
+<h3 align="center">Data Science</h3>
 
 <table align="center">
 <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
@@ -37,7 +37,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <!-- ======================= GESTIÓN ======================= -->
 
-<h2 align="center">Project Management</h2>
+<h3 align="center">Project Management</h3>
 
 <table align="center">
 <tr><td>✔Git</td><td>✔Asana</td><td>✔Jira</td></tr>
@@ -53,7 +53,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <!-- ======================= FRONTEND ======================= -->
 
-<h2 align="center">Frontend Development</h2>
+<h3 align="center">Frontend Development</h3>
 
 <table align="center">
 <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
@@ -69,7 +69,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <!-- ======================= BACKEND ======================= -->
 
-<h2 align="center">Backend Development</h2>
+<h3 align="center">Backend Development</h3>
 
 <table align="center">
 <tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
@@ -90,7 +90,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <!-- ======================= TESTING ======================= -->
 
-<h2 align="center">QA / Testing</h2>
+<h3 align="center">QA / Testing</h3>
 
 <table align="center">
 <tr><td>✔Pytest</td><td>✔Automation</td><td>✔Jest</td></tr>
@@ -103,7 +103,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <!-- ======================= SOFT SKILLS ======================= -->
 
-<h2 align="center">Soft Skills</h2>
+<h3 align="center">Soft Skills</h3>
 
 <table align="center">
 <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
@@ -115,7 +115,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <!-- CONNECT -->
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 
 <p>
 <a href="https://wonderful-cucurucho-b17668.netlify.app/index" target="blank">
@@ -128,19 +128,19 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <p>📫 <strong>fernandojbf123@gmail.com</strong></p>
 
-<h2 align="left">Projects</h2>
+<h3 align="left">Projects</h3>
 <p>- Pending</p>
 
-<h2 align="left">Education</h2>
+<h3 align="left">Education</h3>
 <p>- 2021: PhD in Sciences - Autonomous University of Baja California, Mexico.</p>
 <p>- 2020: MBA - European Postgraduate Institute, Spain.</p>
 <p>- 2015: Master's in Science - CICESE, Mexico.</p>
 <p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
-<h2 align="left">Courses and Awards</h2>
-<p>- Pending</p>
+<h3 align="left">Courses and Awards</h3>
+<p>. . . L O A D I N G . . .</p>
 
-<h2 align="left">Hobbies</h2>
+<h3 align="left">Hobbies</h3>
 <p>- Piano, Guitar, Drum, Singing, Calisthenics, Lecturing, DJ</p>
 
 <h3 align="center">🌱 It is amazing how you never stop learning new stuff about coding</h3>
