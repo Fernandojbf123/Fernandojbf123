@@ -1,12 +1,14 @@
 <h1 align="center">
-Sr. Data Scientist & Strategic Leader  
+Fernando Bello Fuentes Sr. Data Scientist & Strategic Leader  
 Machine Learning & Business Intelligence 
 </h1>
 
 <p>
-Profesional con +15 años en ciencia de datos y gestión empresarial con fuertes habilidades de liderazgo y automatización de procesos para el análisis de datos.
-Con capacidad para <strong>data storytelling</strong>, <strong>desarrollo de proyectos de automatización</strong> para generación de reportes y presentaciones, investigación y web scrapping.
-Enfocado al cumplimiento de metas y la obtención de resultados tomando decisiones fundamentadas principalmente en análisis de indicadores (KPIs).
+Senior Data Scientist and Business Leader with over 15 years of experience in data science, business intelligence, and strategic management. Proven expertise in data analysis, process automation, KPI development, and data-driven decision-making. Strong background in data storytelling, reporting automation, dashboard development, and executive-level presentations. Experienced in research, web scraping, performance metrics analysis, and continuous process improvement. Results-oriented professional focused on delivering measurable business impact through analytics, machine learning, and business intelligence solutions.
+</p>
+
+<p>
+Científico de Datos Senior y Líder Empresarial con más de 15 años de experiencia en ciencia de datos, business intelligence y gestión estratégica. Experto en análisis de datos, automatización de procesos, desarrollo de KPIs y toma de decisiones basada en datos. Sólida experiencia en data storytelling, automatización de reportes, desarrollo de dashboards y presentaciones ejecutivas. Experiencia en investigación, web scraping, análisis de métricas de desempeño y mejora continua de procesos. Profesional orientado a resultados, enfocado en generar impacto medible en el negocio mediante analítica avanzada, machine learning y soluciones de inteligencia empresarial.
 </p>
 
 <!-- ======================= DATA SCIENCE ======================= -->
