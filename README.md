@@ -121,7 +121,7 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 <a href="https://wonderful-cucurucho-b17668.netlify.app/index" target="blank">
 <img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" height="30" width="40"/>
 </a> 
-<a href="https://linkedin.com/in/fernando-bello-6b5160250" target="blank">
+<a href="https://www.linkedin.com/in/fernando-bello-data" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
