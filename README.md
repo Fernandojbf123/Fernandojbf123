@@ -128,10 +128,11 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <h3 align="left">Projects</h3>
 <h4>Exploratory Data Analysis & Data Wrangling</h4>
-<p> 
+<p>
 <a href="https://github.com/Fernandojbf123/meteorological_data_analysis" target="blank">
 <img align="center" src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" height="100" width="100"/>
 </a>
+Perform a basic statistical analysis of a set of meteorological data to find meaningful insights
 </p>
 <p> 
 <a href="https://github.com/Fernandojbf123/olympyc_medals" target="blank">
