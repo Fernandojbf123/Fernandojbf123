@@ -128,6 +128,134 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <h3 align="left">Projects</h3>
 <h4>Exploratory Data Analysis & Data Wrangling</h4>
+
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://github.com/Fernandojbf123/meteorological_data_analysis">
+<img src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" width="90">
+</a>
+</td>
+<td>
+
+**Meteorological Data Analysis**
+
+Perform a basic statistical analysis of meteorological data to extract meaningful insights.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Fernandojbf123/olympyc_medals">
+<img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_lg/f_auto/v1635256750/primary/xx3msqoekyfe8uymicdk" width="90">
+</a>
+</td>
+<td>
+
+**Olympic Medals EDA**
+
+Exploratory Data Analysis of Olympic medals including:
+
+• Data loading and visualization  
+• Data cleaning and type conversion  
+• Top 3 countries with the most gold medals  
+• Countries with more than 10 total medals  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Fernandojbf123/store_sales_analysis">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANATvQdHU5Gb_RuIid1zgCwQQn-3sAIDywA&s" width="90">
+</a>
+</td>
+<td>
+
+**Store Sales Analysis**
+
+Analysis of store sales data to obtain business insights:
+
+• Best-selling product  
+• Month with highest sales  
+• Sales grouped by category  
+• Export results to CSV  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Fernandojbf123/weather_app_data_analysis">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29Yk81oFfnTGylDUs0Yuz1yS3fOVHBPZ_bQ&s" width="90">
+</a>
+</td>
+<td>
+
+**Weather Data Visualization App**
+
+Interactive program for visualizing meteorological records by location and month.
+
+Technologies:
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbizVatRPAUN5u98md1ev6IX49ZyLDBS2N2g&s" width="90">
+</a>
+</td>
+<td>
+
+**Oceanographic Buoy Data Processing**
+
+Automated pipeline that downloads and processes buoy data.  
+The program calculates expected vs received data to verify **data integrity and completeness**, generating a spreadsheet report.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Fernandojbf123/time_series_editor_tkinter">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40">
+</a>
+</td>
+<td>
+
+**Time Series Editor GUI**
+
+Desktop GUI for exploring and cleaning time series data.  
+Allows manual identification and correction of anomalous patterns in datasets.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter-GUI-blue">
+
+</td>
+</tr>
+
+</table>
+
 <p>
 <a href="https://github.com/Fernandojbf123/meteorological_data_analysis" target="blank">
   <img align="center" src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" height="100" width="100"/>
@@ -166,13 +294,15 @@ Provide useful insights by analyzing store sales data (found in two separate .cs
 </p>
 <p> 
 <a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbizVatRPAUN5u98md1ev6IX49ZyLDBS2N2g&s" height="100" width="100"/>
 </a>
+  This project contains Python code that automates the downloading and processing of oceanographic buoy data. The program calculates the amount of expected data and the amount of received data, allowing verification of the integrity and completeness of the processed data. Finally it writes an spreadsheet report with these information.
 </p>
 <p> 
 <a href="https://github.com/Fernandojbf123/time_series_editor_tkinter" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
+  This project is a GUI for exploring and manipulating time series. Even that data shows a "valid value" there are patterns that indicate that some of those values could be wrong. This GUI allows the user to manually select this data and clean it for further analysis.
 </p>
 
 <h4>Automation & report generation</h4>
