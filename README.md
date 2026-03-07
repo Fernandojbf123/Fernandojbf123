@@ -130,29 +130,39 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 <h4>Exploratory Data Analysis & Data Wrangling</h4>
 <p>
 <a href="https://github.com/Fernandojbf123/meteorological_data_analysis" target="blank">
-<img align="center" src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" height="100" width="100"/>
+  <img align="center" src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" height="100" width="100"/>
 </a>
 Perform a basic statistical analysis of a set of meteorological data to find meaningful insights
 </p>
 <p> 
 <a href="https://github.com/Fernandojbf123/olympyc_medals" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img align="center" src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_lg/f_auto/v1635256750/primary/xx3msqoekyfe8uymicdk" height="100" width="100"/>
 </a>
+This project performs an exploratory data analysis (EDA) of Olympic medals using Python and pandas in Jupyter Notebook. The analysis includes:
+- Loading and visualizing the data.
+- Data wrangling (filling missing values, type conversion).
+- Identifying the top 3 countries with the most gold medals.
+- Obtaining a dataframe with countries that won more than 10 medals in total.
 </p>
 <p> 
-<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="https://github.com/Fernandojbf123/store_sales_analysis" target="blank">
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANATvQdHU5Gb_RuIid1zgCwQQn-3sAIDywA&s" height="100" width="100"/>
 </a>
+Provide useful insights by analyzing store sales data (found in two separate .csv files)
+- Best-selling product
+- Month with the highest sales
+- Sales grouped by category
+- Exporting results to a CSV file
 </p>
 <p> 
-<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="https://github.com/Fernandojbf123/weather_app_data_analysis" target="blank">
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29Yk81oFfnTGylDUs0Yuz1yS3fOVHBPZ_bQ&s" height="100" width="100"/>
 </a>
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+  Interactive program for visualizing meteorological data, allowing users to view weather records by selecting the location and month. Developed with:
+- python
+- pandas
+- numpy
+- matplotlib
 </p>
 <p> 
 <a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
@@ -166,6 +176,12 @@ Perform a basic statistical analysis of a set of meteorological data to find mea
 </p>
 
 <h4>Automation & report generation</h4>
+<p> 
+<a href="https://github.com/Fernandojbf123/web_scrapping" target="blank">
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIULbq8KEDRGY3eOnrFOxdksJCnVd-VEOwNA&s" height="100" width="100"/>
+</a>
+  This project is a web scraping application developed in Python, using request and beautiful soup. Its goal is to extract information from a weather web page for further analysis or storage.
+</p>
 <p> 
 <a href="https://github.com/Fernandojbf123/planes_de_crucero" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
