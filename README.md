@@ -127,11 +127,44 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 <p>📫 <strong>fernandojbf123@gmail.com</strong></p>
 
 <h3 align="left">Projects</h3>
+<h4>Exploratory Data Analysis & Data Wrangling</h4>
+<p> 
+<a href="https://github.com/Fernandojbf123/coin_toss_simulator" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
 <p> 
 <a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
+<p> 
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+<p> 
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+<p> 
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+<p> 
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+<p> 
+<a href="https://github.com/Fernandojbf123/time_series_editor_tkinter" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+<h4>Automation & report generation</h4>
 <p> 
 <a href="https://github.com/Fernandojbf123/planes_de_crucero" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
@@ -143,10 +176,18 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 </a>
 </p>
 <p> 
-<a href="https://github.com/Fernandojbf123/time_series_editor_tkinter" target="blank">
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
+<p>
+<a href="https://github.com/Fernandojbf123/MP3Downloader" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+<h4>Others</h4>
+
 
 <h3 align="left">Education</h3>
 <p>- 2021: PhD in Sciences - Autonomous University of Baja California, Mexico.</p>
