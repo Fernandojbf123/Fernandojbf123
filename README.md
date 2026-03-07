@@ -127,7 +127,11 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 <p>📫 <strong>fernandojbf123@gmail.com</strong></p>
 
 <h3 align="left">Projects</h3>
-<p>- Pending</p>
+<p> 
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
 
 <h3 align="left">Education</h3>
 <p>- 2021: PhD in Sciences - Autonomous University of Baja California, Mexico.</p>
