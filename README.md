@@ -126,11 +126,12 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <p>📫 <strong>fernandojbf123@gmail.com</strong></p>
 
+<!-- Projects -->
 <h3 align="left">Projects</h3>
 <h4>Exploratory Data Analysis & Data Wrangling</h4>
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="250">
 <a href="https://github.com/Fernandojbf123/meteorological_data_analysis">
 <img src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" width="120">
 </a>
