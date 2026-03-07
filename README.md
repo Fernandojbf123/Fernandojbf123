@@ -132,6 +132,21 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
+<p> 
+<a href="https://github.com/Fernandojbf123/planes_de_crucero" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+<p> 
+<a href="https://github.com/Fernandojbf123/drift_buoys" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+<p> 
+<a href="https://github.com/Fernandojbf123/time_series_editor_tkinter" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
 
 <h3 align="left">Education</h3>
 <p>- 2021: PhD in Sciences - Autonomous University of Baja California, Mexico.</p>
