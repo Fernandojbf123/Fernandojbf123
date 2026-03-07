@@ -128,12 +128,11 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 
 <h3 align="left">Projects</h3>
 <h4>Exploratory Data Analysis & Data Wrangling</h4>
-
 <table>
 <tr>
 <td align="center" width="120">
 <a href="https://github.com/Fernandojbf123/meteorological_data_analysis">
-<img src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" width="90">
+<img src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" width="120">
 </a>
 </td>
 <td>
@@ -151,7 +150,7 @@ Perform a basic statistical analysis of meteorological data to extract meaningfu
 <tr>
 <td align="center">
 <a href="https://github.com/Fernandojbf123/olympyc_medals">
-<img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_lg/f_auto/v1635256750/primary/xx3msqoekyfe8uymicdk" width="90">
+<img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_lg/f_auto/v1635256750/primary/xx3msqoekyfe8uymicdk" width="120">
 </a>
 </td>
 <td>
@@ -175,7 +174,7 @@ Exploratory Data Analysis of Olympic medals including:
 <tr>
 <td align="center">
 <a href="https://github.com/Fernandojbf123/store_sales_analysis">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANATvQdHU5Gb_RuIid1zgCwQQn-3sAIDywA&s" width="90">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANATvQdHU5Gb_RuIid1zgCwQQn-3sAIDywA&s" width="120">
 </a>
 </td>
 <td>
@@ -198,7 +197,7 @@ Analysis of store sales data to obtain business insights:
 <tr>
 <td align="center">
 <a href="https://github.com/Fernandojbf123/weather_app_data_analysis">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29Yk81oFfnTGylDUs0Yuz1yS3fOVHBPZ_bQ&s" width="90">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29Yk81oFfnTGylDUs0Yuz1yS3fOVHBPZ_bQ&s" width="120">
 </a>
 </td>
 <td>
@@ -220,7 +219,7 @@ Technologies:
 <tr>
 <td align="center">
 <a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbizVatRPAUN5u98md1ev6IX49ZyLDBS2N2g&s" width="90">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbizVatRPAUN5u98md1ev6IX49ZyLDBS2N2g&s" width="120">
 </a>
 </td>
 <td>
@@ -238,7 +237,7 @@ The program calculates expected vs received data to verify **data integrity and 
 <tr>
 <td align="center">
 <a href="https://github.com/Fernandojbf123/time_series_editor_tkinter">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkx-EKknmu1cThy0iA_x8ZO3aR4JG0As4Fg&s" width="120">
 </a>
 </td>
 <td>
@@ -256,54 +255,6 @@ Allows manual identification and correction of anomalous patterns in datasets.
 
 </table>
 
-<p>
-<a href="https://github.com/Fernandojbf123/meteorological_data_analysis" target="blank">
-  <img align="center" src="https://services.meteored.com/img/article/que-dias-son-los-mas-calurosos-del-ano-en-cada-una-de-las-regiones-de-mexico-1721611367788_1280.jpeg" height="100" width="100"/>
-</a>
-Perform a basic statistical analysis of a set of meteorological data to find meaningful insights
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/olympyc_medals" target="blank">
-<img align="center" src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_lg/f_auto/v1635256750/primary/xx3msqoekyfe8uymicdk" height="100" width="100"/>
-</a>
-This project performs an exploratory data analysis (EDA) of Olympic medals using Python and pandas in Jupyter Notebook. The analysis includes:
-- Loading and visualizing the data.
-- Data wrangling (filling missing values, type conversion).
-- Identifying the top 3 countries with the most gold medals.
-- Obtaining a dataframe with countries that won more than 10 medals in total.
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/store_sales_analysis" target="blank">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANATvQdHU5Gb_RuIid1zgCwQQn-3sAIDywA&s" height="100" width="100"/>
-</a>
-Provide useful insights by analyzing store sales data (found in two separate .csv files)
-- Best-selling product
-- Month with the highest sales
-- Sales grouped by category
-- Exporting results to a CSV file
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/weather_app_data_analysis" target="blank">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29Yk81oFfnTGylDUs0Yuz1yS3fOVHBPZ_bQ&s" height="100" width="100"/>
-</a>
-  Interactive program for visualizing meteorological data, allowing users to view weather records by selecting the location and month. Developed with:
-- python
-- pandas
-- numpy
-- matplotlib
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbizVatRPAUN5u98md1ev6IX49ZyLDBS2N2g&s" height="100" width="100"/>
-</a>
-  This project contains Python code that automates the downloading and processing of oceanographic buoy data. The program calculates the amount of expected data and the amount of received data, allowing verification of the integrity and completeness of the processed data. Finally it writes an spreadsheet report with these information.
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/time_series_editor_tkinter" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-  This project is a GUI for exploring and manipulating time series. Even that data shows a "valid value" there are patterns that indicate that some of those values could be wrong. This GUI allows the user to manually select this data and clean it for further analysis.
-</p>
 
 <h4>Automation & report generation</h4>
 <p> 
