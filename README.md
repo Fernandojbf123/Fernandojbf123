@@ -1,9 +1,7 @@
 <h1 align="left">
 Fernando Bello Fuentes
 </h1>
-<h2>Sr. Data Scientist & Strategic Leader  
-Machine Learning & Business Intelligence 
-</h2>
+<h2>Senior Data Scientist | Industrial Internet of things & Machine Learning | Data analytics</h2>
 
 <p>
 Senior Data Scientist and Business Leader with over 15 years of experience in data science, business intelligence, and strategic management. Proven expertise in data analysis, process automation, KPI development, and data-driven decision-making. Strong background in data storytelling, reporting automation, dashboard development, and executive-level presentations. Experienced in research, web scraping, performance metrics analysis, and continuous process improvement. Results-oriented professional focused on delivering measurable business impact through analytics, machine learning, and business intelligence solutions.
