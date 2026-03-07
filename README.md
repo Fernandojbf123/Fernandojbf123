@@ -258,32 +258,99 @@ Allows manual identification and correction of anomalous patterns in datasets.
 
 
 <h4>Automation & report generation</h4>
-<p> 
-<a href="https://github.com/Fernandojbf123/web_scrapping" target="blank">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIULbq8KEDRGY3eOnrFOxdksJCnVd-VEOwNA&s" height="100" width="100"/>
+<table>
+<tr>
+<td align="center" width="250">
+<a href="https://github.com/Fernandojbf123/web_scrapping">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIULbq8KEDRGY3eOnrFOxdksJCnVd-VEOwNA&s" width="230">
 </a>
-  This project is a web scraping application developed in Python, using request and beautiful soup. Its goal is to extract information from a weather web page for further analysis or storage.
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/planes_de_crucero" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</td>
+<td>
+
+**Weather Web Scraping**
+
+This project is a web scraping application developed in Python.  
+It extracts information from a weather website for further analysis or storage.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Requests-2A6DB2?style=flat">
+<img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat">
+
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="250">
+<a href="https://github.com/Fernandojbf123/planes_de_crucero">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
 </a>
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/drift_buoys" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</td>
+<td>
+
+**Cruise Plans Analysis**
+
+Tools for processing and analyzing cruise plan information related to oceanographic operations and navigation planning.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="250">
+<a href="https://github.com/Fernandojbf123/drift_buoys">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
 </a>
-</p>
-<p> 
-<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</td>
+<td>
+
+**Drift Buoy Data Processing**
+
+Scripts for processing and analyzing drifting buoy data used in oceanographic studies.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="250">
+<a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
 </a>
-</p>
-<p>
-<a href="https://github.com/Fernandojbf123/MP3Downloader" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</td>
+<td>
+
+**Recovered Data Verification**
+
+Automated workflow that calculates expected vs received data from oceanographic buoys to verify dataset completeness.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+</td>
+</tr>
+
+
+<tr>
+<td align="center" width="250">
+<a href="https://github.com/Fernandojbf123/MP3Downloader">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
 </a>
-</p>
+</td>
+<td>
+
+**MP3 Downloader**
+
+Python application that automates downloading audio files and organizing them locally.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+</td>
+</tr>  
+</table>
 
 <h4>Others</h4>
 
