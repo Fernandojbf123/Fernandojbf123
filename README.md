@@ -304,7 +304,7 @@ Tools for processing and analyzing cruise plan information related to oceanograp
 <tr>
 <td align="center" width="250">
 <a href="https://github.com/Fernandojbf123/drift_buoys">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yHfrnBGjwfTkoilRz55-eYVJ_iq9Kz8W0w&s" width="230">
 </a>
 </td>
 <td>
@@ -314,6 +314,10 @@ Tools for processing and analyzing cruise plan information related to oceanograp
 Scripts for processing and analyzing drifting buoy data used in oceanographic studies.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python--docx-Python?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenPyXL-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
 
 </td>
 </tr>
@@ -322,7 +326,7 @@ Scripts for processing and analyzing drifting buoy data used in oceanographic st
 <tr>
 <td align="center" width="250">
 <a href="https://github.com/Fernandojbf123/calcular_cantidad_de_datos_recuperados">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX948B3O2ILaNOF2T0mdjMfIl3foyD3bgCpA&s" width="230">
 </a>
 </td>
 <td>
@@ -332,6 +336,10 @@ Scripts for processing and analyzing drifting buoy data used in oceanographic st
 Automated workflow that calculates expected vs received data from oceanographic buoys to verify dataset completeness.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python--docx-Python?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenPyXL-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
 
 </td>
 </tr>
@@ -340,7 +348,7 @@ Automated workflow that calculates expected vs received data from oceanographic 
 <tr>
 <td align="center" width="250">
 <a href="https://github.com/Fernandojbf123/MP3Downloader">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPqV9KFjp7kPs8YuHgmiZjyFU0ytMEtiVcg&s" width="230">
 </a>
 </td>
 <td>
@@ -354,9 +362,6 @@ Python application that automates downloading audio files and organizing them lo
 </td>
 </tr>  
 </table>
-
-<h4>Others</h4>
-
 
 <h3 align="left">Education</h3>
 <p>- 2021: PhD in Sciences - Autonomous University of Baja California, Mexico.</p>
