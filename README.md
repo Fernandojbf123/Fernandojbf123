@@ -277,7 +277,7 @@ It extracts information from a weather website for further analysis or storage.
 <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat">
 
 </td>
-</tr>
+</tr>tu
 
 
 <tr>
