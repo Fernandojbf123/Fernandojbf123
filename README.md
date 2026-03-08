@@ -283,7 +283,7 @@ It extracts information from a weather website for further analysis or storage.
 <tr>
 <td align="center" width="250">
 <a href="https://github.com/Fernandojbf123/planes_de_crucero">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="230">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM6T4QOlN9NQK4rDraSULBFS5SFr9OvVM38A&s" width="230">
 </a>
 </td>
 <td>
@@ -293,7 +293,10 @@ It extracts information from a weather website for further analysis or storage.
 Tools for processing and analyzing cruise plan information related to oceanographic operations and navigation planning.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-
+<img src="https://img.shields.io/badge/python--docx-Python?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenPyXL-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
 </td>
 </tr>
 
