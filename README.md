@@ -111,21 +111,6 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 <tr><td>✔Planner</td><td>✔Hardworker</td><td>✔Pragmatic</td></tr>
 </table>
 
-<!-- CONNECT -->
-
-<h3 align="left">Connect with me:</h3>
-
-<p>
-<a href="https://preeminent-concha-c79c75.netlify.app/" target="blank">
-<img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" height="50" width="60"/>
-</a> 
-<a href="https://www.linkedin.com/in/fernando-bello-data" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="60"/>
-</a>
-</p>
-
-<p>📫 <strong>fernandojbf123@gmail.com</strong></p>
-
 <!-- Projects -->
 <h3 align="left">Projects</h3>
 <h4>Exploratory Data Analysis & Data Wrangling</h4>
@@ -369,8 +354,21 @@ Python application that automates downloading audio files and organizing them lo
 <p>- 2015: Master's in Science - CICESE, Mexico.</p>
 <p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
-<h3 align="left">Courses and Awards</h3>
-<p>. . . L O A D I N G . . .</p>
+
+<!-- CONNECT -->
+<h3 align="left">Connect with me:</h3>
+
+<p>
+<a href="https://preeminent-concha-c79c75.netlify.app/" target="blank">
+<img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" height="50" width="60"/>
+</a> 
+<a href="https://www.linkedin.com/in/fernando-bello-data" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="60"/>
+</a>
+</p>
+
+<p>📫 <strong>fernandojbf123@gmail.com</strong></p>
+
 
 <h3 align="left">Hobbies</h3>
 <p>- Piano, Guitar, Drum, Singing, Calisthenics, Lecturing, DJ</p>
