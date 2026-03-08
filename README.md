@@ -116,11 +116,11 @@ Científico de Datos Senior y Líder Empresarial con más de 15 años de experie
 <h3 align="left">Connect with me:</h3>
 
 <p>
-<a href="https://wonderful-cucurucho-b17668.netlify.app/index" target="blank">
-<img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" height="30" width="40"/>
+<a href="https://preeminent-concha-c79c75.netlify.app/" target="blank">
+<img align="center" src="https://wonderful-cucurucho-b17668.netlify.app/bellodev_clean_code.webp" height="50" width="60"/>
 </a> 
 <a href="https://www.linkedin.com/in/fernando-bello-data" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="60"/>
 </a>
 </p>
 
