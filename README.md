@@ -1,14 +1,14 @@
 <h1 align="left">
 Fernando Bello Fuentes
 </h1>
-<h2>Senior Data Scientist | Industrial Internet of things & Machine Learning | Data analytics</h2>
+<h2>Data Scientist | Industrial Internet of things & Machine Learning | Data analytics</h2>
 
 <p>
-Senior Data Scientist and Business Leader with over 15 years of experience in data science, business intelligence, and strategic management. Proven expertise in data analysis, process automation, KPI development, and data-driven decision-making. Strong background in data storytelling, reporting automation, dashboard development, and executive-level presentations. Experienced in research, web scraping, performance metrics analysis, and continuous process improvement. Results-oriented professional focused on delivering measurable business impact through analytics, machine learning, and business intelligence solutions.
+Data Scientist and Business Leader, business intelligence, and strategic management. Proven expertise in data analysis, process automation, KPI development, and data-driven decision-making. Strong background in data storytelling, reporting automation, dashboard development, and executive-level presentations. Experienced in research, web scraping, performance metrics analysis, and continuous process improvement. Results-oriented professional focused on delivering measurable business impact through analytics, machine learning, and business intelligence solutions.
 </p>
 
 <p>
-Científico de Datos Senior y Líder Empresarial con más de 15 años de experiencia en ciencia de datos, business intelligence y gestión estratégica. Experto en análisis de datos, automatización de procesos, desarrollo de KPIs y toma de decisiones basada en datos. Sólida experiencia en data storytelling, automatización de reportes, desarrollo de dashboards y presentaciones ejecutivas. Experiencia en investigación, web scraping, análisis de métricas de desempeño y mejora continua de procesos. Profesional orientado a resultados, enfocado en generar impacto medible en el negocio mediante analítica avanzada, machine learning y soluciones de inteligencia empresarial.
+Científico de Datos y Líder Empresarial, business intelligence y gestión estratégica. Experto en análisis de datos, automatización de procesos, desarrollo de KPIs y toma de decisiones basada en datos. Sólida experiencia en data storytelling, automatización de reportes, desarrollo de dashboards y presentaciones ejecutivas. Experiencia en investigación, web scraping, análisis de métricas de desempeño y mejora continua de procesos. Profesional orientado a resultados, enfocado en generar impacto medible en el negocio mediante analítica avanzada, machine learning y soluciones de inteligencia empresarial.
 </p>
 
 <!-- ======================= DATA SCIENCE ======================= -->
